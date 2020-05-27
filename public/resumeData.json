@@ -1,0 +1,46 @@
+{
+  "main": {
+    "name":"Pranav Mahesh",
+    "resumedownload":"./Resume_Pranav_Website.pdf",
+    "social":[
+      {
+        "name":"github",
+        "url":"https://github.com/PranavMahesh1",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/pranav-mahesh/",
+        "className":"fa fa-linkedin"
+      }
+    ]
+  },
+  "projects":{
+    "projects": [
+      {
+        "title":"Yelper",
+        "category":"A React web app I built to show restaurant information and map locations",
+        "image":"yelper.png",
+        "url":"https://pranavmahesh1.github.io/yelper/"
+      },
+      {
+        "title":"MRBoard",
+        "category":"A forum software I developed based on ABXD",
+        "image":"mrboard.png",
+        "url":"https://github.com/PranavMahesh1/MRBoard"
+      },
+      {
+        "title":"IRC Bot",
+        "category":"Open source Node.js IRC Bot I helped develop",
+        "image":"irc.png",
+        "url":"https://github.com/PranavMahesh1/Node.js-IRC-Bot"
+      },
+      {
+        "title":"Wheeler Works",
+        "category":"A nonprofit organization to help small businesses gain an online presence",
+        "image":"wheelerworks.png",
+        "url":"https://khhossain.wixsite.com/wheeler-works"
+      }
+    ]
+  }
+}
