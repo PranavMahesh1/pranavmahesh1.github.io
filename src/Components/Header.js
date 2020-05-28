@@ -32,7 +32,7 @@ class Header extends Component {
          <div className="banner-text">
             <h1>{name}</h1>
             <h3>Hi there! I'm Pranav, incoming second year <b>Computer Science</b> major at <b>Georgia Tech</b>, and aspiring software engineer.</h3>
-            <hr />
+            
             <ul className="social">
                {networks}
             </ul>
