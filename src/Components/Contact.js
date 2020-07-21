@@ -5,7 +5,7 @@ class Contact extends Component {
     return (
       <section id="contact">
          <center>
-         <h1>Want to get in contact?</h1>
+         <h1>Want to contact me?</h1>
          <p>You can reach me by <a href="mailto:pmahesh@gatech.edu">email</a> or through <a href="https://www.linkedin.com/in/pranav-mahesh/">LinkedIn</a>.</p>
          </center>
    </section>

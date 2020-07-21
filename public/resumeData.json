@@ -18,6 +18,12 @@
   "projects":{
     "projects": [
       {
+        "title":"Quartet",
+        "category":"A web app that allows choirs to sing together while being physically apart",
+        "image":"quartet.png",
+        "url":"https://github.com/adamhannadev/quartet"
+      },
+      {
         "title":"Yelper",
         "category":"A React web app I built to show restaurant information and map locations",
         "image":"yelper.png",
