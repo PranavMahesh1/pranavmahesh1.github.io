@@ -19,7 +19,7 @@
     "projects": [
       {
         "title":"Quartet",
-        "category":"A web app that allows choirs to sing together while being physically apart",
+        "category":"A web app that allows choirs to sing together while being apart",
         "image":"quartet.png",
         "url":"https://github.com/adamhannadev/quartet"
       },

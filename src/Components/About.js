@@ -12,12 +12,11 @@ class About extends Component {
             <div class="row">
                <div class="column">
                   <h2>About Me</h2>
-                  <p>I'm Pranav Mahesh, a rising second-year CS student at Georgia Tech who's passionate about software development, cybersecurity, and artificial intelligence. My interests include playing the piano and violin, practicing karate, playing Nintendo games, and learning new technical skills.</p>
-                  <p>In May, I participated in Capital One's <a href="https://campus.capitalone.com/summits/">Software Engineering Summit</a>, learning about AWS, Machine Learning, Arduinos, and Android Development.
-                  This summer, I'm working remotely for <a href="https://arcs.gatech.edu/">ARCS</a> to provide technical support for the students and faculty of the GT College of Sciences during the COVID-19 pandemic, along with taking some summer classes and expanding my technical skills.
-                  I teamed up with a group of 4 to develop <a href="https://github.com/adamhannadev/quartet">Quartet</a>, a web application that allows choirs to sing together during COVID-19 - it records specific parts of a song and combines these parts to playback the recording.</p>
+                  <p>I'm Pranav Mahesh, a second-year CS student at Georgia Tech concentrating in <b>Information Internetworks and Artificial Intelligence</b>. I love software development, cybersecurity, and artificial intelligence. My hobbies include playing the piano and violin, practicing karate, playing Nintendo games.</p>
+                  <p>This past year, I've worked for <a href="https://arcs.gatech.edu/">ARCS</a> to provide technical assistance for the students and faculty of the GT College of Sciences. This was especially important as classes transitioned from in-person to online due to COVID-19.</p>
+                  <p>This summer, I took Physics and Calculus 3, along with expanding my technical skills by teaming up with a group of 4 to develop <a href="https://github.com/adamhannadev/quartet">Quartet</a>, a web application that allows choirs to sing together during COVID-19 - it records specific parts of a song and combines these parts to playback the recording.</p>
                   
-                  <p>I'm currently open to Software Engineering/Development Intern roles for Summer 2021.</p>
+                  <p>I'm currently open to Software Engineering/Development Intern roles for Summer 2021. Email me if you want to get in touch!</p>
                </div>
                <div class="column">
                   <img alt="Software Development" src="./images/softwaredev.png" />
