@@ -3,4 +3,4 @@ Disallow: /js/
 Disallow: /css/
 Disallow: /static/
 
-Sitemap: http://pranavmahesh.com/sitemap.xml
+Sitemap: https://pranavmahesh.com/sitemap.xml
