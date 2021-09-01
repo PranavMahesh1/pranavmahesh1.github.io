@@ -21,9 +21,9 @@ class Header extends Component {
          <ul id="nav" className="nav">
             <li className="current"><a className="smoothscroll" href="#home">Home</a></li>
             <li><a className="smoothscroll" href="#about">About</a></li>
+            <li><a className="smoothscroll" href="#resume">Resume</a></li>
             <li><a className="smoothscroll" href="#projects">Projects</a></li>
             <li><a className="smoothscroll" href="#contact">Contact</a></li>
-            <li><a href="./Resume_Pranav_Website.pdf">Resume</a></li>
          </ul>
 
       </nav>
@@ -31,7 +31,7 @@ class Header extends Component {
       <div className="row banner">
          <div className="banner-text">
             <h1>{name}</h1>
-            <h3>Hi there! I'm Pranav, second year <b>Computer Science</b> major at <b>Georgia Tech</b>, and aspiring software engineer.</h3>
+            <h3>Hi there! I'm Pranav, third year <b>Computer Science</b> major at <b>Georgia Tech</b>, and aspiring software engineer.</h3>
             
             <ul className="social">
                {networks}
