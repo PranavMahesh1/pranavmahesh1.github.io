@@ -18,16 +18,16 @@
   "projects":{
     "projects": [
       {
-        "title":"Quartet",
-        "category":"A web app that allows choirs to sing together while being apart",
-        "image":"quartet.png",
-        "url":"https://github.com/adamhannadev/quartet"
-      },
-      {
         "title":"Yelper",
         "category":"A React web app I built to show restaurant information and map locations",
         "image":"yelper.png",
         "url":"https://pranavmahesh.com/yelper/"
+      },
+      {
+        "title":"Quartet",
+        "category":"A web app that allows choirs to sing together while being apart",
+        "image":"quartet.png",
+        "url":"https://github.com/adamhannadev/quartet"
       },
       {
         "title":"MRBoard",
@@ -46,6 +46,80 @@
         "category":"A nonprofit organization to help small businesses gain an online presence",
         "image":"wheelerworks.png",
         "url":"https://khhossain.wixsite.com/wheeler-works"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here are some of my technical skills:",
+    "education": [
+      {
+        "school": "Georgia Institute of Technology",
+        "degree": "B.S./M.S. in Computer Science",
+        "graduated": "May 2023 (Expected)"
+      }
+    ],
+    "work": [
+      {
+        "company": "Amazon",
+        "title": "Software Development Engineer Intern",
+        "years": "June 2021 - August 2021",
+        "description": "Created a REST API in Kotlin to automate the creation of third-party merchant accounts to use Just Walk Out Technology",
+        "description2": "Developed an internal portal in React which business teams can use to create merchant accounts automatically",
+        "description3": "Increased efficiency of merchant creation by 99%; reduced workflow time from 20+ minutes to 10 seconds"
+      },
+      {
+        "company": "Georgia Institute of Technology",
+        "title": "IT Support Student Worker",
+        "years": "October 2019 - June 2021",
+        "description": "Diagnosed over 80 software, hardware, and network issues from students and faculty within College of Sciences",
+        "description2": "Assisted over 3000 users to transition from in-person to online classes due to COVID-19 pandemic",
+        "description3": "Installed and purchased over 100 workstations, laptops, servers, and other pieces of equipment"
+      },
+      {
+        "company": "NASA Glenn Research Center",
+        "title": "Cybersecurity Intern",
+        "years": "June 2019 - August 2019",
+        "description": "Improved the cybersecurity of the Data Systems Branch by securing multiple HP Color LaserJet printers",
+        "description2": "Produced printer security documentation and technical report for future employees to utilize",
+        "description3": "Performed vulnerability assessments on various IoT devices"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java/Kotlin",
+        "level": "60%"
+      },
+      {
+        "name": "Python",
+        "level": "55%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "50%"
+      },
+      {
+        "name": "HTML/CSS",
+        "level": "90%"
+      },
+      {
+        "name": "SQL",
+        "level": "80%"
+      },
+      {
+        "name": "React",
+        "level": "50%"
+      },
+      {
+        "name": "Node.js",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "AWS",
+        "level": "80%"
       }
     ]
   }
