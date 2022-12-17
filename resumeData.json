@@ -19,9 +19,21 @@
     "projects": [
       {
         "title":"Yelper",
-        "category":"A React web app I built to show restaurant information and map locations",
+        "category":"A React web app that lets you search for restaurants and shows their information and map locations",
         "image":"yelper.png",
         "url":"https://pranavmahesh.com/yelper/"
+      },
+      {
+        "title":"Acousticrypt",
+        "category":"An Android app that lets you communicate text through high-frequency audio",
+        "image":"acousticrypt.png",
+        "url":"https://github.com/PranavMahesh1/Acousticrypt"
+      },
+      {
+        "title":"Paky's Mission Possible",
+        "category":"A 3D platforming video game made in Unity for CS6457 - Video Game Design",
+        "image":"pakymission.png",
+        "url":"https://github.com/PranavMahesh1/PakysMissionPossible"
       },
       {
         "title":"Quartet",
@@ -30,22 +42,16 @@
         "url":"https://github.com/adamhannadev/quartet"
       },
       {
-        "title":"MRBoard",
-        "category":"A forum software I developed based on ABXD",
-        "image":"mrboard.png",
-        "url":"https://github.com/PranavMahesh1/MRBoard"
+        "title":"Reddit User Comment Deleter",
+        "category":"A Python bot that automatically deletes your own posts on Reddit from a specific subreddit",
+        "image":"reddit.png",
+        "url":"https://github.com/PranavMahesh1/reddit-user-comment-deleter-by-subreddit"
       },
       {
         "title":"IRC Bot",
         "category":"Open source Node.js IRC Bot I helped develop",
         "image":"irc.png",
         "url":"https://github.com/PranavMahesh1/Node.js-IRC-Bot"
-      },
-      {
-        "title":"Wheeler Works",
-        "category":"A nonprofit organization to help small businesses gain an online presence",
-        "image":"wheelerworks.png",
-        "url":"https://khhossain.wixsite.com/wheeler-works"
       }
     ]
   },
@@ -54,11 +60,24 @@
     "education": [
       {
         "school": "Georgia Institute of Technology",
-        "degree": "B.S./M.S. in Computer Science",
-        "graduated": "May 2023 (Expected)"
+        "degree": "M.S. in Computer Science",
+        "graduated": "May 2023"
+      },
+      {
+
+        "degree": "B.S. in Computer Science",
+        "graduated": "May 2022"
       }
     ],
     "work": [
+      {
+        "company": "Amazon",
+        "title": "Software Development Engineer Intern",
+        "years": "May 2022 - August 2022",
+        "description": "Eliminated common customer issue by preventing retailers using Just Walk Out Technology from uploading store catalog until tax information is completed",
+        "description2": "Created Kotlin API to return tax status in under 250 ms; used React Redux to call API and disable upload button upon catalog page load",
+        "description3": "Deployed changes to production for over 60 stores across NA & EU, monitored API metrics through alarms and dashboards"
+      },
       {
         "company": "Amazon",
         "title": "Software Development Engineer Intern",

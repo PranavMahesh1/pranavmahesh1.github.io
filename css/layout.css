@@ -315,7 +315,8 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #projects {
-   background: #2B2B2B;
+   /*background: #2B2B2B;*/
+   background: #8EB8E5;
    padding-top: 90px;
    padding-bottom: 60px;
 }
@@ -325,7 +326,7 @@ ul#nav li.current a { color: #F06000; }
    letter-spacing: 1px;
    text-align: center;
    margin-bottom: 48px;
-   color: white;
+   /*color: white;*/
 }
 
 /* Projects Content */
@@ -486,7 +487,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #contact {
-   background: aliceblue;
+
    padding-top: 96px;
    padding-bottom: 102px;
    color: #636363;
@@ -494,13 +495,13 @@ ul#nav li.current a { color: #F06000; }
 #contact .section-head { margin-bottom: 42px; }
 
 #contact a, #contact a:visited  { color: #11ABB0; }
-#contact a:hover, #contact a:focus { color: black; }
+#contact a:hover, #contact a:focus { color: white; }
 
 #contact h1 {
    font: 18px/24px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 3px;
-   color: black;
+   color: white;
    margin-bottom: 6px;
 }
 #contact h1 span { display: none; }
@@ -508,7 +509,7 @@ ul#nav li.current a { color: #F06000; }
 
 #contact h4 {
    font: 16px/24px 'opensans-bold', sans-serif;
-   color: black;
+   color: white;
    margin-bottom: 6px;
 }
 #contact p.lead {
@@ -517,7 +518,7 @@ ul#nav li.current a { color: #F06000; }
 }
 
 #contact p {
-   color: black;
+   color: white;
 }
 #contact .header-col { padding-top: 6px; }
 
